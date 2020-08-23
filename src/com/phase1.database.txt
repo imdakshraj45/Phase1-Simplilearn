@@ -1,0 +1,12 @@
+Site: facebook
+Username: imdakshraj
+Password: daksh123
+Site: face
+Username: imd
+Password: daksh12
+Site: insta
+Username: imdakshraj
+Password: daksh12345
+Site: insta
+Username: veerbhadra
+Password: veer123
